@@ -2,8 +2,8 @@ package _01.hello.primefaces;
 
 import javax.faces.bean.ManagedBean;
 
-@ManagedBean(name = "personBeanData")
-public class PersonBeanData {
+@ManagedBean(name = "personDataBean")
+public class PersonDataBean {
 
 	private String name;
 
